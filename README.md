@@ -1,5 +1,15 @@
 # Sentiment Analysis
+
 ## Hate Speech Detection: creation of a dictionary of the bully language
 The aim of this research is to create a dictionary of the bully language
 so as to be able to distinguish offensive/abusive tweets from non-offensive ones, in order
 to suggest a possible solution to the propagation of the hate on the social media.
+
+## Dataset
+The dataset used in this analysis is https://www.kaggle.com/imranzaman5202/bully-messages-detection.
+
+## Contributors
+
+- Martina Corsini  <a href="https://github.com/lauraciurca" rel="nofollow noreferrer"> <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github </a> &nbsp;
+
+- Camilla Gotta  &nbsp;  
