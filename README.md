@@ -10,6 +10,6 @@ The dataset used in this analysis is https://www.kaggle.com/imranzaman5202/bully
 
 ## Contributors
 
-- Martina Corsini  <a href="https://github.com/lauraciurca" rel="nofollow noreferrer"> <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github </a> &nbsp;
+- Martina Corsini  
 
-- Camilla Gotta  &nbsp;  
+- Camilla Gotta  &nbsp; <a href="https://github.com/lauraciurca" rel="nofollow noreferrer"> <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github </a> &nbsp; 
